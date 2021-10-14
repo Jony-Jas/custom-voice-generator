@@ -31,6 +31,12 @@ To launch the web-app: you must setup the directory as per given below
 - Code and steps to setup for ``` voice-synthesizer-frontend ``` can be found <a href="https://github.com/Jony-Jas/voice-synthesizer-frontend">here</a>🔗
 - place the original audios in the ``` original_audios ``` folder
 - Create an empty directory named ``` cloned_audios ```
+ 
+ 
+## Screenshot
+ 
+ ![Screenshot 2021-10-14 154114](https://user-images.githubusercontent.com/74784363/137297945-06d2ffe0-a39b-4062-b62f-5a95ae7164fb.png)
+
 
   
 
